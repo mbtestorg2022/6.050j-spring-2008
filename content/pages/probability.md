@@ -28,7 +28,7 @@ Resources
 *   Salomon, David. "Huffman Coding, section 2.8; Facsimile Compression using Huffman Coding, section 2.13." In _Data Compression_. London, England: Springer, 2006. ISBN: 9781846286025.
 *   [The Human Mortality Database](http://www.mortality.org/) from University of California, Berkeley.
 *   MIT current year [student enrollment data](https://registrar.mit.edu/statistics-reports)
-*   Sebastiani, Paola. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Tutorial on Probability Theory (PDF)](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)." One of many good tutorials on the subject.
+*   Sebastiani, Paola. "[A Tutorial on Probability Theory (PDF)](http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf)." One of many good tutorials on the subject.
 
 ### Historical
 

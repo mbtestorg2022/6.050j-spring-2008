@@ -22,7 +22,7 @@ Resources
 ### Technical
 
 *   Shannon, Claude E. "A Mathematical Theory of Communication." _Bell System Technical Journal_ 27 (July and October 1948): 379–423 (Part I), 623–656 (Part II). These seminal papers are available in several forms.
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Original papers (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), with corrections but without Shannon's 1949 modifications.
+    *   [Original papers (PDF)](http://worrydream.com/refs/Shannon%20-%20A%20Mathematical%20Theory%20of%20Communication.pdf), with corrections but without Shannon's 1949 modifications.
     *   Shannon, Claude E., and Warren Weaver. _The Mathematical Theory of Communication_. Urbana, IL: University of Illinois Press, 1998. ISBN: 9780252725463. (Incorporating a number of modifications and corrections by Shannon.)
     *   Shannon, Claude E. "A Mathematical Theory of Communication." 50th Anniversary Edition, printed for the 1998 _IEEE International Symposium on Information Theory_. New York, NY: IEEE Press, August 16–21, 1998. ISBN: 9780780350007. (Based on 1949 book, with corrections.)
     *   Reprinted in _Key Papers in the Development of Information Theory_. Edited by D. Slepian. New York, NY: IEEE Press, 1974.

@@ -26,7 +26,7 @@ This subject is offered jointly by the Department of Electrical Engineering and 
 Text
 ----
 
-The course is taught from a set of notes written by Prof. Penfield, developed over several years of teaching this course. These readings are linked from each unit. Each week these readings are also supplemented by a plethora of online and print resources. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Information and Entropy_ full course notes (PDF - 4MB)]({{< baseurl >}}/resources/mit6_050js08_textbook)
+The course is taught from a set of notes written by Prof. Penfield, developed over several years of teaching this course. These readings are linked from each unit. Each week these readings are also supplemented by a plethora of online and print resources. [_Information and Entropy_ full course notes (PDF - 4MB)]({{< baseurl >}}/resources/mit6_050js08_textbook)
 
 Assignments
 -----------
