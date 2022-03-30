@@ -12,7 +12,7 @@ Course Meeting Times
 Prerequisites
 -------------
 
-Physics I: Classical Mechanics (Offered in various forms at MIT as _[8.01SC Classical Mechanics](/courses/8-01sc-classical-mechanics-fall-2016/)_, [_8.012 Physics I: Classical Mechanics_](/courses/8-012-physics-i-classical-mechanics-fall-2008), [_8.01L Physics I: Classical Mechanics_](/courses/8-01l-physics-i-classical-mechanics-fall-2005), 8.01T, or advanced standing credit)
+Physics I: Classical Mechanics (Offered in various forms at MIT as _[8.01SC Classical Mechanics](/courses/8-01sc-classical-mechanics-fall-2016)_, [_8.012 Physics I: Classical Mechanics_](/courses/8-012-physics-i-classical-mechanics-fall-2008), [_8.01L Physics I: Classical Mechanics_](/courses/8-01l-physics-i-classical-mechanics-fall-2005), 8.01T, or advanced standing credit)
 
 Course Description
 ------------------
